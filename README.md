@@ -18,33 +18,47 @@ Muhammad Farhan
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 * **Output tambah_data**
   
-   ![opsiTambah](https://user-images.githubusercontent.com/72803399/104210510-8e413400-5465-11eb-860f-11a574a08e01.png)
+  ![tambah](https://user-images.githubusercontent.com/72969987/104219564-ddd92d00-5470-11eb-9a3f-fdcf82556623.png)
+
+
 
 
 
 * **Output daftar_nilai**
 
-![opsiLihat](https://user-images.githubusercontent.com/72803399/104210589-a749e500-5465-11eb-82a5-a974475a0b24.png)
+
+![lihat](https://user-images.githubusercontent.com/72969987/104219643-f6494780-5470-11eb-918b-70657fb499fe.png)
+
 
 
 * **Output ubah_data**
 
 
-![opsiUbah](https://user-images.githubusercontent.com/72803399/104210619-ae70f300-5465-11eb-9a6b-bd7852d411ff.png)
+
+![ubah](https://user-images.githubusercontent.com/72969987/104219589-e6c9fe80-5470-11eb-94cb-0aba490077ee.png)
+
+
 
 
 * **Output Cari_data**
 
 
-![opsiCari](https://user-images.githubusercontent.com/72803399/104210539-96996f00-5465-11eb-93a4-d46137e33ad3.png)
+
+![cari](https://user-images.githubusercontent.com/72969987/104219601-eb8eb280-5470-11eb-964b-cddacfba9110.png)
+
+
 
 
 * **Output Hapus_data**
 
 
-![opsiHapus](https://user-images.githubusercontent.com/72803399/104210551-9bf6b980-5465-11eb-842c-a722a8801404.png)
+![hapus](https://user-images.githubusercontent.com/72969987/104219613-ef223980-5470-11eb-9e4f-a85c9af57822.png)
+
+
 
 
 * **Output break**
 
-![opsiKeluar](https://user-images.githubusercontent.com/72803399/104210570-a1540400-5465-11eb-823f-f38c2faef695.png)
+
+![keluar](https://user-images.githubusercontent.com/72969987/104219622-f2b5c080-5470-11eb-8a0c-a5bd85ee2233.png)
+
